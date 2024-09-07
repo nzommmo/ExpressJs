@@ -112,6 +112,9 @@ function App() {
           ))}
         </tbody>
       </table>
+      <div>
+        wow
+      </div>
     </div>
   );
 }
