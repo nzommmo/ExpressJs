@@ -13,6 +13,7 @@ let cars = [
     { id: 2, name: "Merc", model: 'V6' },
     { id: 3, name: "Toyota", model: 'V8' },
     { id: 4, name: "Maserati", model: 'V12' },
+    { id: 4, name: "Maserati", model: 'V12' },
 ];
 
 // Create new car
